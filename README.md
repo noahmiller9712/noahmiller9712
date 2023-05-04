@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! My name is Noah, and I am brand new to coding.
+Currently, I'm learning to code at Tech Elevator!
+Here are a few things to know about me: I love reading, punk-rock, and nature; I recently got married to an amazing woman; and we love living in Columbus. 
+If you need to reach me, feel free to send me an email: noahmiller9712@gmail.com.
